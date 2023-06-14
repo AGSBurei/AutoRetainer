@@ -16,6 +16,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		VentureOverrideTest.cs = VentureOverrideTest.cs
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VenturePlannerSolver", "VenturePlannerSolver\VenturePlannerSolver.csproj", "{8591B37D-42E9-4BD9-86FF-3ECEC8BD90C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,14 @@ Global
 		{EDA006EE-7035-4C9B-9080-E12AE488CADA}.Release|Any CPU.Build.0 = Release|x64
 		{EDA006EE-7035-4C9B-9080-E12AE488CADA}.Release|x64.ActiveCfg = Release|x64
 		{EDA006EE-7035-4C9B-9080-E12AE488CADA}.Release|x64.Build.0 = Release|x64
+		{8591B37D-42E9-4BD9-86FF-3ECEC8BD90C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8591B37D-42E9-4BD9-86FF-3ECEC8BD90C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8591B37D-42E9-4BD9-86FF-3ECEC8BD90C5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8591B37D-42E9-4BD9-86FF-3ECEC8BD90C5}.Debug|x64.Build.0 = Debug|Any CPU
+		{8591B37D-42E9-4BD9-86FF-3ECEC8BD90C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8591B37D-42E9-4BD9-86FF-3ECEC8BD90C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8591B37D-42E9-4BD9-86FF-3ECEC8BD90C5}.Release|x64.ActiveCfg = Release|Any CPU
+		{8591B37D-42E9-4BD9-86FF-3ECEC8BD90C5}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
